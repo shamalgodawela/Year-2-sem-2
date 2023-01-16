@@ -1,0 +1,1739 @@
+
+.getreqcontaine {
+
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	border-color: black;
+	min-height: 480px;
+    min-width: 500px;
+	margin-top:40px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 20%;
+    text-align: center;
+}
+
+
+
+.getreqtopic{
+    margin-left: 45%;
+    text-shadow: 0 0 5px #FF0000, 0 0 5px #0000FF;
+}
+
+
+.box7{
+    background: flex;
+    flex-direction: column;
+    position: relative;
+    top: -65px;
+    width: 910px;
+    height: 410px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color:  rgba(248, 236, 236, 0.4);
+    box-shadow: inset -5px -5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    left: 20px;
+}
+
+.Listofregsup{
+ 
+    background-image: url("../images/listofsup.jpg");
+    background-size: cover;
+    height: 550px;
+}
+
+.Download-button7{
+    width: 4px;
+    height: 2px;
+    left: 70px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -15px;
+    background: #0096FF;
+    border-radius: 3px;
+}
+
+.table{
+   
+    margin:auto;
+    text-align: center;
+    margin-top:-4px;
+    
+  
+}
+
+.pgname7{
+    position: relative;
+    top: -84px; 
+    left: 10px;
+    color: #19ADE8;
+    -webkit-text-stroke: 1px black;
+}
+/*Get Request CSS*/
+.getreqpgname{
+    position: relative;
+    top: -54px; 
+    left: 42%;
+    color: #b7e420;
+    -webkit-text-stroke: 1px black;
+}
+
+.usericon{
+    position: relative;
+    width: 85px;
+    height: 80px;
+    left: 90px;
+    top: -24px;
+}
+
+.dash7{
+    margin-left: 1111px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 15px;   
+}
+
+.Delete-button7{
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -354px;
+    left: 553px;
+    background: #FFA500;
+    border-radius: 10px;
+}
+
+.Update-button7{
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -426px;
+    left: 653px;
+    background: #FFA500;
+    border-radius: 10px;
+}
+
+
+.Add-button7{
+    width: 100px;
+    height: 45px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -279px;
+    left: 453px;
+    background: #FFA500;
+    border-radius: 10px;
+}
+
+.supsearch{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+    margin-left: 10%;
+
+}
+.searchbtn{
+    position: relative;
+    width: 30px;
+    height: 35px;
+    top: 38px;
+}
+
+.Report-button{
+    width: 50px;
+    height: 55px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -490px;
+    left: 10%;
+    background-image:url("../images/pdficon.png");
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.Pdftext{
+    position: relative;
+    top: -490px;
+    left: 124px;
+    font-size: 20px;
+
+}
+
+/*Get Request CSS*/
+.getreq{
+    background-image: url("../images/Getreqpg.jpg"); 
+    background-size:cover;
+    height: 515px;
+
+}
+.Pgnavbox{
+    background: #D3D3D3;
+    position: relative;
+    top: 25px;
+    width: 660px;
+    height: 250px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Pgnavi{
+    background-image: url("../images/Navpg.jpg");
+    background-size: cover;
+    height: 530px;
+
+}
+
+.Procu-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 76px;
+    left: -15px;
+    background: #FFA500;
+    border-radius: 10px;
+   
+
+}
+
+.Sup-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 75px;
+    left: 5px;
+    background: #FFA500;
+    border-radius: 10px;
+}
+
+.dash3{
+    margin-left: 80%;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+   
+    
+}
+
+.dash2{
+    margin-left: 1130px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;   
+}
+
+.usericon{
+    position: relative;
+    left: 100px;
+    top: -15px;
+}
+
+.pgname{
+    color: rgb(255, 255, 255);
+}
+
+.Log-button{
+    position: relative;
+    top: 190px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    background: #D0BDF0;
+    border-radius: 5px;
+    
+
+}
+
+.form-group11{
+    width: 320px;
+    position: relative;
+    top: 75px;
+    left: -80px;
+}
+
+.form-group13{
+    width: 320px;
+    position: relative;
+    top: 135px;
+    left: -80px;
+   
+}
+
+.box3{
+    background: linear-gradient(135deg, #0be4d9, #f9d553);
+    position: relative;
+    top: -60px;
+    width: 360px;
+    height: 440px;
+    left: 30px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Procurelogin{
+     
+    background-image: url("../images/procloginimg.jpg");
+    background-size:cover;
+    height:550px;
+}
+
+.box2Title{
+    position: relative;
+    top: 25px;
+}
+
+.notregifont1{
+    position:relative;
+    top: 50%;
+    right: 12%;
+}
+
+.reghyperlink{
+    position: relative;
+    top: 44%;
+    left: 17%;
+}
+.box{
+    background: linear-gradient(135deg, #90EE90, #c857f5);
+    position: relative;
+    top: -50px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Supregbox{
+    background: linear-gradient(135deg, #dcf808, #881ed8);
+    position: relative;
+    top: -100px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Supupdatebox{
+    background: linear-gradient(135deg, #6a71f0, #2ae230);
+    position: relative;
+    top: -50px;
+    width: 400px;
+    height: 440px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+ 
+}
+
+.Procurereg{
+     
+    background-image: url("../images/procureg.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.Supreg2{
+     
+    background-image: url("../images/Supreg2img.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.Supupdatebody{
+    background-image: url("../images/Supupdatepg.jpg");
+    background-size:cover;
+    height:530px;
+}
+
+.form-group1{
+    width: 150px;
+    position: relative;
+    top: 45px;
+    left: -50px;
+}
+
+.form-group2{
+    width: 150px;
+    position: relative;
+    top: 7px;
+    right: -110px;
+   
+}
+
+.form-group3{
+    width: 310px;
+    position: relative;
+    top: 25px;
+    left: -50px;
+   
+}
+
+.form-group4{
+    width: 310px;
+    position: relative;
+    top: 45px;
+    left: -50px;
+   
+}
+
+.form-group5{
+    width: 310px;
+    position: relative;
+    top: 65px;
+    left: -50px;
+   
+}
+
+.form-group6{
+    width: 310px;
+    position: relative;
+    top: 85px;
+    left: -50px;
+   
+}
+
+
+.reg-button{
+    position: relative;
+    top: 105px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    background: #B06AB3;
+    border-radius: 5px;
+    background: #7EE8FA; 
+    left: 30%;
+
+}
+
+.Supreg-button{
+    position: relative;
+    top: 105px;
+    width: 135px;
+    height: 40px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    border-radius: 5px;
+    background: #f4b223; 
+    left: 30%;
+
+}
+
+.box1Title{
+    position: relative;
+    top: 15px;
+    margin-left: 35%;
+}
+
+.dash1{
+    margin-left: 1130px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;   
+}
+
+.usericon{
+    position: relative;
+    left: 100px;
+    top: -15px;
+}
+
+.pgname{
+    color: azure;
+}
+
+.Suppgname{
+    position: relative;
+    color:aliceblue;
+    left: 100px;
+    top:-90px;
+}
+
+.SupupboxTitle{
+    position: relative;
+    top: 15px;
+    margin-left: 23%;
+}
+.box4{
+    background: #D3D3D3;
+    position: relative;
+    top: -35px;
+    width: 360px;
+    height: 350px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.Procurepage{
+    background-image: url("../images/procupg.jpg");
+    background-size: cover;
+
+}
+
+.Supplier-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 56px;
+    background: #B06AB3;
+    border-radius: 10px;
+   
+
+}
+
+.Imports-button{
+    width: 250px;
+    height: 65px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 120px;
+    background: #B06AB3;
+    border-radius: 10px;
+}
+
+.dash3{
+    margin-left: 80%;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 20px;
+   
+    
+}
+
+.Report-Gen-Btn{
+    width: 147px;
+    height: 55px;
+    background-color: lightseagreen;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -490px;
+    left: 88%;
+    border-radius: 10px;
+    
+}
+.Supplierlogin{
+    background-size: cover;
+    height:550px;
+
+}
+
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3000px;
+}
+
+.dash5{
+    margin-left: 1130px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 30px;   
+}
+
+.box4-1{
+    background: #ffffff;
+    position: relative;
+    right: 150px;
+    top: -40px;
+    width: 310px;
+    height: 430px;
+    padding: 10px;
+    box-shadow: 1px 0px 1px 1px;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.box4-2{
+    background: #B06AB3;
+    position: relative;
+    left: 157px;
+    top: -685px;
+    width: 310px;
+    height: 430px;
+    padding: 10px;
+    box-shadow: 1px 0px 1px 1px;
+    margin: 20px auto;
+    border-radius: 3px;
+}
+
+.box5Title{
+    position: relative;
+    top: -435px;
+    right: 150px;
+}
+
+.placeholder5{
+    position: relative;
+    top: -360px;
+    right: 130px;
+    border: 100px;
+    
+}
+
+.Login-button5{
+    width: 100px;
+    height: 43px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    background: #B06AB3;
+    border-radius: 10px;
+    left: -150px;
+    top: -290px;
+    background: #7EE8FA; 
+}
+
+.notregifont2{
+    position: relative;
+    top: 140px;
+}
+
+.RegisterNow2{
+    width: 100px;
+    height: 50px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 56px;
+    background: #FEB47B;
+    border-radius: 10px;
+    left: -4px;
+    top: 180px;
+
+}
+
+.pgname5{
+    position: relative;
+    left: 100px;
+    top:-90px;
+    color:#ffffff
+}
+
+.mainbox{
+    position: relative;
+    top: -67px;
+}
+.dash6{
+    margin-left: 1130px;
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+    position: relative;
+    top: 30px;   
+}
+
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3150px;
+}
+
+.Supplierreg{
+    background-image: url("../images/Supreg2img.jpg");
+    background-size: cover;
+    height:530px;
+}
+
+.pgname{
+    margin-top: 10px;
+}
+
+.placeholder{
+    position: relative;
+    top: 40px;
+    border: 100px;
+    
+}
+
+.box6{
+    background: linear-gradient(135deg, #e1e448, #c857f5);
+    position: relative;
+    top: -139px;
+    width: 360px;
+    height: 480px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.box6Title{
+    position: relative;
+    top: 5px;
+    left: 120px; 
+}
+
+.fileinput{
+    position: relative;
+    left: 40px;
+}
+
+.Save-button6{
+    width: 40px;
+    height: 20px;
+    left: 60px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -35px;
+    background: #0096FF;
+    border-radius: 3px;
+}
+
+.Cancle-button6{
+    width: 40px;
+    height: 20px;
+    left: 69px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: -35px;
+    background: #0096FF;
+    border-radius: 3px;
+}
+
+.reg-button6{
+    width: 80px;
+    height: 30px;
+    cursor: pointer;
+    box-shadow: 1px 1px 1px 1px;
+    position: relative;
+    top: 13px;
+    background: #B06AB3;
+    border-radius: 10px;
+    left: 119px;
+    background: #7EE8FA; 
+}
+
+.form-group6-1{
+    width: 210px;
+    position: relative;
+    top: -15px;
+    left: -20px;
+}
+
+.form-group6-2{
+    width: 210px;
+    position: relative;
+    top: -45px;
+    left: -20px;
+}
+
+.form-group6-3{
+    width: 210px;
+    position: relative;
+    top: -25px;
+    left: -20px;
+}
+
+.form-group6-4{
+    width: 210px;
+    position: relative;
+    top: -5px;
+    left: -20px;
+}
+
+.form-group6-5{
+    width: 210px;
+    position: relative;
+    top: 10px;
+    left: -20px;
+}
+
+.BRCFont{
+    position:relative;
+    left: 50px;
+    top: 10px;
+}
+
+.pgname6{
+    position: relative;
+    left: 100px;
+    top:-90px;
+}
+.usericon{
+    width: 85px;
+    height: 80px;
+    margin-left: 1050px;
+    margin-top: -3150px;
+}
+
+.profilepgname{
+    color: rgb(241, 155, 43);
+   -webkit-text-stroke: 1px black;
+    position: relative;
+    left: 550px;
+    top: -100px;
+}
+
+.Supprof{
+    background-size: cover;
+    background-image: url("../images/supprofile.jpg");
+    height: 517px;
+}
+
+.Transparentbox{
+    background: flex;
+    flex-direction: column;
+    position: relative;
+    top: -115px;
+    width: 310px;
+    height: 450px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.4);
+    box-shadow: inset -5px -5px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    left: -200px;
+}
+
+.Supprofbox1{
+    background: #D3D3D3;
+    position: relative;
+    top: -585px;
+    left: 185px;
+    width: 460px;
+    height: 450px;
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 20px auto;
+    border-radius: 5px;
+}
+
+
+.aboutfont{
+    position: relative;
+    top: 15px;
+    left: 10px;
+}
+
+.horizantal-line{
+    width: 90px;
+    height: 2px;
+    background-color: black;
+    position: relative;
+    top: 17px;
+    left: 9px;
+}
+
+.fontinabout{
+    position: relative;
+    left: 20px;
+    top: -30px;
+}
+
+.fontinabout2{
+    position: relative;
+    left: 260px;
+    top: -318px; 
+}
+/* stores Login css*/
+
+.containerlogin {
+	background-color: rgb(255, 255, 255);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 900px;
+	max-width: 100%;
+	min-height: 400px;
+	margin-left:20%;
+	margin-top:100px;
+}
+.containerlogin .loginimage{
+    position: absolute;
+	
+    background: url("../images/Loginbg.jpg");
+	overflow: hidden;
+	width: 450px;
+	max-width: 100%;
+	min-height: 550px;
+	
+	
+    
+}
+.containerlogin .login{
+    background-color:rgb(255, 255, 255);
+	width: 450px;
+	float: right;
+    text-align: center;
+ 
+	min-height: 480px;
+    font-size: 1rem;
+    line-height: 6rem;
+    text-align: center;
+   
+    margin-top: 5%;
+    
+}
+.Logininput-box{
+    width: 70%;
+    background: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 6px 0;
+    height: 42px;
+    border-radius: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    outline: none;
+    text-align: center;
+    color: rgb(4, 4, 4);
+    margin-top: 10%;
+}
+
+button {
+    width: 25%;
+    background-color: chartreuse;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 37px 0 10px;
+    height: 38px;
+    font-size: 12px;
+    
+    border-radius: 20px;
+    padding: 0 10px;
+    box-sizing: border-box;
+    outline: none;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+   
+
+} 
+
+
+/*Choose css*/
+
+
+.pushable {
+    background: hsl(340deg 100% 32%);
+    border-radius: 12px;
+    border: none;
+    padding: 0;
+    cursor: pointer;
+    outline-offset: 4px;
+   
+    margin: 300px  25px;
+    width: 300px;
+    height: 74px;
+  }
+  
+  .front {
+    display: block;
+    padding: 33px 42px;
+    border-radius: 12px;
+    font-size: 1.25rem;
+    background: hsl(345deg 100% 47%);
+    color: white;
+    transform: translateY(-6px);
+  }
+  .front1 {
+    display: block;
+    padding: 33px 42px;
+    border-radius: 12px;
+    font-size: 1.15rem;
+    background: hsl(345deg 100% 47%);
+    color: white;
+    transform: translateY(-6px);
+  }
+
+  .pushable:active .front {
+    transform: translateY(-2px);
+  }
+  .pushable:active .front1 {
+    transform: translateY(-2px);
+  }
+  
+
+  .chlable{
+    display: inline;
+    margin-left: 18%;
+    
+    
+  }
+
+  .chos{
+    background-image: url("../images/choose1.jpg");
+	background-size: cover;
+	height: 675px;
+}
+
+/* dinendra */
+/*Inventory css*/
+
+.containe1 {
+	background-color: rgb(255, 255, 255, 0.6);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	height: 520px;
+	border-color: black;
+	
+    
+	margin-top:0px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 15%;
+    text-align: center;
+}
+
+.invbg{
+	background-image: url("../images/inventrybg2.jpg");
+	background-size: cover;
+	height: 680px;
+}
+
+.invsearch{
+    width: 300px;
+    height: 35px;
+    margin-top: 40px;
+    margin-left: 15%;
+}
+
+.pdfcss{
+   
+    margin-top: -42%;
+    margin-left: 97%;
+    width: 30px;
+}
+.btn-link{
+ 
+    background-image: url("../images/pdf2.jpg");
+	background-size: cover;  
+    width: 35px;
+   height: 45px;
+}
+
+
+
+/* pdf*/
+.containepdf {
+	background-color: rgb(255, 255, 255, 0.6);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	height: 520px;
+	border-color: black;
+	
+    
+	margin-top:0px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 15%;
+    text-align: center;
+}
+
+
+.invpdfbg{
+    background-color: rgb(255, 255, 255);
+    height: 680px;
+}
+
+
+.exam{
+    margin-left: 8%;
+}
+
+
+
+
+/* add product css*/
+
+
+.contain1{
+    background-color: rgb(186, 188, 190,0.8);
+     
+     border-radius: 10px;
+     
+     box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+             0 10px 10px rgba(0,0,0,0.22);
+     position: relative;
+     overflow: hidden;
+     width: 800px;
+     height: 550px;
+     border-color: black;
+     
+    
+     margin-left: 25%;
+     border: 3px solid rgb(0, 0, 0);
+     
+     
+     
+ }
+ 
+ .productTopic {
+    
+ 
+     font-family: Georgia, serif;
+     font-size: 46px;
+     text-align: center;
+     margin-top: 20px; 
+ }
+ 
+ .productinput-box2{
+  width: 30%;
+  background: transparent;
+  border: 1px solid rgb(0, 0, 0);
+  margin: 6px 75px;
+  height: 42px;
+  border-radius: 20px;
+  padding: 10px 40px;
+  box-sizing: border-box;
+  outline: none;
+  font-size: 12px;
+  margin-top: 30px;
+  
+  
+  
+ }
+ .productinput-box1{
+     width: 40%;
+     background: transparent;
+     border: 1px solid rgb(0, 0, 0);
+     margin: 2px 55px;
+     height: 42px;
+     border-radius: 20px;
+     padding: 10px 25px;
+     box-sizing: border-box;
+     outline: none;
+     font-size: 12px;
+     margin-top: 20px;
+     
+    }
+ 
+ 
+ 
+ .productsumbit-btn{
+     width: 20%;
+     border-radius: 20px;
+     background-color: rgb(223, 208, 7);
+     border: 1px solid rgb(0, 0, 0);
+     margin: 35px 0 10px;
+     height: 38px;
+     font-size: 12px;
+     border-radius: 20px;
+     justify-items: center;
+     box-sizing: border-box;
+     outline: none;
+     color: rgb(0, 0, 0);
+     padding: 0 10PX;
+     margin-left: 40%;
+ 
+ 
+     border-radius: 20px;
+     margin-top: 40px;
+     
+ }
+ 
+ ::placeholder{
+     font-size: 15px;
+ }
+ 
+  .addproductbg{
+     background-image: url("../images/add product1.jpg");
+     background-size:cover;
+     height: 675px;
+    
+     
+    
+ } 
+
+
+/* Assets and maintainance css*/
+
+.containe4 {
+	background-color: rgb(255, 255, 255, 0.6);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	border-color: black;
+	min-height: 480px;
+    min-width: 500px;
+	margin-top:40px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 20%;
+    text-align: center;
+}
+
+
+
+.assetstopic{
+    margin-left: 40%;
+    
+}
+
+.ambg{
+	background-image: url("../images/assetsbg3.jpg");
+	background-size:cover;
+	height: 675px;
+
+}
+
+
+/* Add maintainance css*/
+
+.containe5 {
+	background-color: rgb(255, 255, 255, 0.6);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 700px;
+	border-color: black;
+	min-height: 470px;
+    min-width: 500px;
+	margin-top:50px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 28%;
+    text-align: center;
+}
+.productinput-box3{
+    width: 80%;
+    background: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 9px 55px;
+    height: 42px;
+    border-radius: 20px;
+    padding: 10px 25px;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 12px;
+    margin-top: 30px;
+	text-align: center;
+    
+   }
+   .productinput-box4{
+    width: 80%;
+    background: transparent;
+    border: 1px solid rgb(0, 0, 0);
+    margin: 9px 55px;
+    height: 42px;
+    border-radius: 20px;
+    padding: 10px 25px;
+    box-sizing: border-box;
+    outline: none;
+    font-size: 12px;
+    margin-top: 30px;
+	text-align: center;
+    
+   }
+.maintaintopic{
+   
+    margin-top: 20px;
+}
+
+
+
+.AddMainForm{
+	align-items: center;
+	text-align: center;
+}
+
+.AddMainainbg{
+    background-image: url("../images/maintainsbg1.jpg");
+	background-size:cover;
+	height: 675px;
+}
+
+
+/* Request css*/
+
+.reqbody{
+    color: #000;
+    overflow-x: hidden;
+    height: 100%;
+    background-image: url("https://i.imgur.com/GMmCQHC.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%
+}
+    
+.card{
+    
+    padding: 30px 40px;
+    margin-top: 150px;
+    margin-bottom: 60px;
+    border: none !important;
+    box-shadow: 0 6px 12px 0 rgba(0,0,0,0.2)
+    
+
+}
+
+.blue-text{
+    color: #00BCD4
+}
+
+.form-control-label{
+    margin-bottom: 0
+}
+
+input, textarea{
+    padding: 8px 15px;
+    border-radius: 5px !important;margin: 5px 0px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    font-size: 18px !important;
+    font-weight: 300
+}
+
+input:focus, textarea:focus{
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    border: 1px solid #00BCD4;
+    outline-width: 0;font-weight: 400
+}
+
+.btn-block{
+    text-transform: uppercase;
+    font-size: 15px !important;
+    font-weight: 400;height: 43px;cursor: pointer
+}
+    
+.btn-block:hover{
+    color: #fff !important
+}
+
+button:focus{
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+    outline-width: 0
+}
+
+.form-control-label px-3{
+    margin-left: 0%;
+}
+
+
+
+/*view Request css*/
+
+.reqcontaine {
+	background-color: rgb(255, 255, 255, 0.6);
+	border-radius: 10px;
+  	box-shadow: 0 14px 28px rgba(0,0,0,0.25), 
+			0 10px 10px rgba(0,0,0,0.22);
+	position: relative;
+	overflow: hidden;
+	width: 1000px;
+	border-color: black;
+	min-height: 480px;
+    min-width: 500px;
+	margin-top:40px;
+    border: 2px solid rgb(0, 0, 0);
+    margin-left: 20%;
+    text-align: center;
+}
+
+
+
+.reqtopic{
+    margin-left: 45%;
+    text-shadow: 0 0 5px #FF0000, 0 0 5px #0000FF;
+}
+
+.reqbg{
+	 background-image: url("../images/requestbg1.jpg"); 
+	background-size:cover;
+	height: 675px;
+
+}
+/* ayeshan */
+
+.containerrrAdmin{
+	background: #2d3e3f;
+	width: 500px;
+	height: 500px;
+	padding-bottom: 20px;
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	margin: auto;
+  padding: 70px 50px 20px 50px;
+}
+
+
+.fl{
+	float: left;
+  width: 110px;
+  line-height: 35px;
+}
+
+.fontLabel{
+  color: white;
+}
+
+.fr{
+	float: right;
+}
+
+.clr{
+	clear: both;
+}
+
+.boxAdmin{
+	width: 400px;
+	height: 35px;
+	margin-top: 10px;
+	font-family: verdana;
+	font-size: 12px;
+}
+
+.textBoxAdmin{
+	height: 35px;
+	width: 220px;
+	border: none;
+  padding-left: 20px;
+}
+
+.newAd{
+  float: left;
+}
+
+.iconBoxAd{
+	height: 35px;
+	width: 40px;
+	line-height: 38px;
+	text-align: center;
+  background: #ff6600;
+}
+
+.radio{
+	color: white;
+	background: #2d3e3f;
+	line-height: 38px;
+}
+
+.terms{
+	line-height: 35px;
+	text-align: center;
+	background: #2d3e3f;
+	color: white;
+}
+
+.submit{
+	float: right;
+	border: none;
+	color: white;
+	width: 110px;
+	height: 35px;
+	background: #ff6600;
+	text-transform: uppercase;
+  cursor: pointer;
+}
+
+.uManager{
+	color: rgb(247, 232, 232);
+	font-family: 'Times New Roman', Times, serif;
+}
+
+.UpdateB{
+    background-image: url("../images/8.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    height: 800px;
+	width: 1300px;
+}
+
+.btnnAd {
+	background-color: #f0580d;
+	border: none;
+	color: white;
+	padding: 5px 30px;
+	text-align: center;
+	font-size: 16px;
+	margin: 24px 348px;
+	opacity: 0.6;
+	transition: 0.3s;
+  }
+  
+  .btnnAd:hover {opacity: 1}
+
+  
+.containerAd{
+    max-width: 900px;
+    width: 100%;
+    background-color: rgb(94, 151, 91);
+    padding: 25px 30px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px rgba(247, 244, 244, 0.15);
+  }
+  .containerAd .title{
+    font-size: 25px;
+    font-weight: 500;
+    position: relative;
+  }
+  .containerAd .title::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 3px;
+    width: 30px;
+    border-radius: 5px;
+    background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  }
+  .content form .user-details{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 20px 0 12px 0;
+  }
+  form .user-details .input-box{
+    margin-bottom: 15px;
+    width: calc(100% / 2 - 20px);
+  }
+  form .input-box span.details{
+    display: block;
+    font-weight: 500;
+    margin-bottom: 5px;
+  }
+  .user-details .input-box input{
+    height: 45px;
+    width: 100%;
+    outline: none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding-left: 15px;
+    border: 1px solid #ccc;
+    border-bottom-width: 2px;
+    transition: all 0.3s ease;
+  }
+  .user-details .input-box input:focus,
+  .user-details .input-box input:valid{
+    border-color: #9b59b6;
+  }
+   form .gender-details .gender-title{
+    font-size: 20px;
+    font-weight: 500;
+   }
+   form .category{
+     display: flex;
+     width: 80%;
+     margin: 14px 0 ;
+     justify-content: space-between;
+   }
+   form .category label{
+     display: flex;
+     align-items: center;
+     cursor: pointer;
+   }
+   form .category label .dot{
+    height: 18px;
+    width: 18px;
+    border-radius: 50%;
+    margin-right: 10px;
+    background: #d9d9d9;
+    border: 5px solid transparent;
+    transition: all 0.3s ease;
+  }
+   #dot-1:checked ~ .category label .one,
+   #dot-2:checked ~ .category label .two,
+   #dot-3:checked ~ .category label .three{
+     background: #9b59b6;
+     border-color: #d9d9d9;
+   }
+   form input[type="radio"]{
+     display: none;
+   }
+   form .button{
+     height: 45px;
+     margin: 35px 0
+   }
+   form .button input{
+     height: 100%;
+     width: 100%;
+     border-radius: 5px;
+     border: none;
+     color: #fff;
+     font-size: 18px;
+     font-weight: 500;
+     letter-spacing: 1px;
+     cursor: pointer;
+     transition: all 0.3s ease;
+     background: linear-gradient(135deg, #71b7e6, #9b59b6);
+   }
+   form .button input:hover{
+    /* transform: scale(0.99); */
+    background: linear-gradient(-135deg, #71b7e6, #9b59b6);
+    }
+   @media(max-width: 584px){
+   .container{
+    max-width: 100%;
+  }
+  form .user-details .input-box{
+      margin-bottom: 15px;
+      width: 100%;
+    }
+    form .category{
+      width: 100%;
+    }
+    .content form .user-details{
+      max-height: 300px;
+      overflow-y: scroll;
+    }
+    .user-details::-webkit-scrollbar{
+      width: 5px;
+    }
+    
+  }
+  #cButton{
+    margin-top: 10px;
+  }
+  
+  .CreateB{
+    background-image: url("../images/6.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    width: 1300px;
+  }
+  
+  
+  
+  .rcorners2 {
+    border-radius: 5px;
+    padding: 9px; 
+    width: 412px;
+    width:400px;
+  }
+  
+  .buttonAdmin1 {
+    border-radius: 4px;
+    background-color: #0f7031;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    padding: 20px;
+    width:835px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+  
+  .buttonAdmin1 span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+  
+  .buttonAdmin1 span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+  
+  .buttonAdmin1:hover span {
+    padding-right: 25px;
+  }
+  
+  .buttonAdmin1:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+  
+  /* shamil */
+  
+.RDdetailsbox{
+   
+    border: 2px solid black;
+}
+
+ /* .max1{
+    background-color: green;
+    width: 50%;
+    height: 20px;
+  
+}  */
+ .login1{
+    width: 30%;
+    height: 40px;  
+} 
+
+.cet1{
+   
+    margin-left: 0%;
+    border: 1px solid rgb(226, 226, 226);
+    width: 480px;
+    height: 360px;
+    background-image: url("../images/ceti1.png");
+    background-size: 480px;
+    /* background-color: white; */
+} 
+
+.rdbuttn{
+    width: 0px;
+    height: 0px;
+}  
+
+.btnview{
+    height: 45px;
+    width :300px;
+} 
+.shamilex{
+    margin-left: 8%;
+}
+
+
+
+
+
+  
+  
+
+
